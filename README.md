@@ -1,4 +1,4 @@
-# Hello World with Java :coffe:
+# Hello World with Java :coffee:
 This is a sumple **"Hello World"** done with **Java** programming language.
 ##Source code
 
